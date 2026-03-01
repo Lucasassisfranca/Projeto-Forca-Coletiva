@@ -33,8 +33,7 @@ Este projeto busca transmitir **união, empatia e impacto social positivo** atra
 ## 🌐 Acesse o Site
 
 🔗 **Link oficial:**  
-https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
-
+https://lucasassisfranca.github.io/Projeto-Forca-Coletiva/
 ---
 
 ## 🏢 Organização
@@ -42,24 +41,6 @@ https://projeto-forca-coletiva.github.io/projeto-forca-coletiva/
 Este projeto também faz parte da organização oficial no GitHub:
 
 🔗 https://github.com/projeto-forca-coletiva
-
----
-
-## 🎨 Identidade Visual
-
-- Cor principal: `#14286a`
-- Estilo moderno e institucional
-- Layout responsivo
-- Estrutura organizada e escalável
-
----
-
-## 🚀 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Git & GitHub
-- GitHub Pages
 
 ---
 
